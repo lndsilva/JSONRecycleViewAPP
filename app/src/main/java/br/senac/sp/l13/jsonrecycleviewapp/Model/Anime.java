@@ -15,7 +15,6 @@ public class Anime {
     private String studio;
     private String image_url;
 
-
     public Anime() {
     }
 
